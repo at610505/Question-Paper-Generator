@@ -6,5 +6,5 @@
 `cd Question-Paper-Generator`
 
 ## Run the program
-`npm start`
+`npm run start`
 
