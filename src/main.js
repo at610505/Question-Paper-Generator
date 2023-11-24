@@ -1,5 +1,5 @@
 
-const Question = require('./models/question');
+const Question = require('./models/Question');
 const questionStore = require('./questionStore');
 
 const generateQuestionPaper = require('./generators/questionPaperGenerator');
